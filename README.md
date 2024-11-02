@@ -1,6 +1,5 @@
 ## Hi and Welcome! 👋
 
-
 <h4>About me</h4>
 <ul>
 	
@@ -39,17 +38,17 @@
 
 <h4>Projects</h4>
 <ul>
-<li><h5>Knowledge Graph for Mental Health Clinicians (In Progress)</h5></li>
+<li><h5><a href="https://www.github.com/rishikasrinivas/KnowledgeGraphMentalHealth">Knowledge Graph for Mental Health Clinicians (In Progress)</a></h5></li>
 <h6>&emsp;Stack: Python, OpenAI API, HTML/CSS/JS, GEval, GPTCritic, RAGA, MongoDB</h6>
 
 <li><h5>Image Captioning: Generating detailed captions for images (Currently Expanding)</h5></li>
 <h6>&emsp;Stack: Python, Pytorch, Multimodal models, LORA</h6>
   
-<li><h5>InAPicke: Assisting customers with dietary restrictions through menu selection (In Progress)</h5></li>
+<li><h5>InAPickle: Assisting customers with dietary restrictions through menu selection (In Progress)</h5></li>
 <h6>&emsp;Stack: Python, Typescript, RAG, React Native/Expo</h6>
 
   
-<li><h5>Book Search: Recommending books based on custom storyline</h5></li>
+<li><h5><a href="https://github.com/rishikasrinivas/BookSearch">Book Search: Recommending books based on custom storyline</a></h5></li>
 <h6>&emsp;Stack: Python, Pytorch, BERT, Google Books API, HTML/CSS/JS, Flask </h6>
 </ul>
   
