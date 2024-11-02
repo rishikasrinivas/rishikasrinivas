@@ -58,8 +58,10 @@
 <ul><li><h6>Doing Impactful Projects!</h6></li></ul>
 
 <h4>Contact Information</h4>
-- LinkedIn: www.linkedin.com/in/rishikasrinivas
-- Email: 04rishikasrinivas@gmail.com
+<ul>
+	<li>LinkedIn: www.linkedin.com/in/rishikasrinivas</li>
+	<li>Email: riasrini@ucsc.edu</li>
+</ul>
 
 <h4>Stats</h4>
 
