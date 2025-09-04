@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=200%3A+OK;Welcome!!)](https://git.io/typing-svg)v
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=200%3A+OK;Welcome!!)](https://git.io/typing-svg)
 <h4>About me</h4>
 	<li> CS (BS) @ UCSC | xAI Researcher | AI and Machine Learning specialization | Free time = Project time. </li>
 
 <h4>Goals</h4>
-	<li> AI for societal and industrial growth </li>
+	<li> :globe_with_meridians: AI for societal and industrial growth </li>
 
 <h4>Languages and Tools</h4>
 <p align="left">
