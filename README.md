@@ -1,16 +1,9 @@
-[## Hi and Welcome! 👋
-](https://camo.githubusercontent.com/052f411e470a7c68a4e4028fb296c93e3e8cf03c59a112fd2d1015e6ca6a812b/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d496e7465722673697a653d34382663656e7465723d74727565267643656e7465723d747275652677696474683d353030266865696768743d373026636f6c6f723d343439334638266475726174696f6e3d34303030266c696e65733d48692b5468657265212bf09f918b3b2b49276d2b4e616d72617461213b)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=200%3A+OK;Welcome!!)](https://git.io/typing-svg)v
 <h4>About me</h4>
-<ul>
-	
-<li>I'm a 3rd year undergraduate student and AI Researcher at University of California, Santa Cruz studying Computer Science (BS). </li>
-<p></p>
-<li>I am also an AI Fellow with Break Through Tech AI and Brightside Health.</li>
-<p></p>
-<li>I have project experience in AI/ML with Data Cleaning and Processing, Model Selection, Bias-Variance Trade-off, LLMs, Computer Vision, and Multimodal models</li>
-<p></p>
-<li>I also have research experience in Explainable AI, explaining concepts learned by neurons across activation ranges and the impact of pruning on these explanations</li>
-</ul>
+	<li> CS (BS) @ UCSC | xAI Researcher | AI and Machine Learning specialization | Free time = Project time. </li>
+
+<h4>Goals</h4>
+	<li> AI for societal and industrial growth </li>
 
 <h4>Languages and Tools</h4>
 <p align="left">
